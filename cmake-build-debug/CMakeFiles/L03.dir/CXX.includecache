@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mcbillingsley/Desktop/c++ files/CS202/L03/Name.h
+
+/Users/mcbillingsley/Desktop/c++ files/CS202/L03/main.cpp
+iostream
+-
+vector
+-
+Name.h
+/Users/mcbillingsley/Desktop/c++ files/CS202/L03/Name.h
+
